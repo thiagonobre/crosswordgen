@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Crossword";
+}
+
+<h2>Crossword</h2>
+@using (Html.BeginForm("Generate","Home", FormMethod.Post))
+{
+    <text>Quantidade de colunas: </text><input type="text" name="width" value="@ViewData["Width"]" /><br /><br />
+    <text>Quantidade de linhas: </text><input type="text" name="height" value="@ViewData["Height"]" /><br />
+    <text><small><b>PS.:</b> Palavras com mais caracteres que a quantidade de linhas ou colunas e palavras com menos de 3 caracteres serão removidas</small></text><br /><br />
+    <text>Coloque as palavras, uma por linha, na caixa de texto abaixo: </text><br />
+    <textarea name="words" style="width: 500px; height:150px;">@if (ViewData.ContainsKey("Words"))
+                                                               {
+            @ViewData["Words"]
+                                                               }</textarea><br />
+    <input type="submit" value="Gerar" />
+}
+@if (ViewData["CanvasWriter"] != null && ViewData["Canvas"] != null)
+{
+            <div style="margin:50px;position:relative;">
+                @Html.Raw((ViewData["CanvasWriter"] as CrosswordGen.Model.ICanvasWriter).write((ViewData["Canvas"]) as CrosswordGen.Model.Canvas))
+            </div>
+}

@@ -1,0 +1,9 @@
+E:\git\crosswordgen\CrosswordGen.Web\bin\CrosswordGen.Web.dll
+E:\git\crosswordgen\CrosswordGen.Web\bin\CrosswordGen.Web.pdb
+E:\git\crosswordgen\CrosswordGen.Web\bin\EntityFramework.dll
+E:\git\crosswordgen\CrosswordGen.Web\bin\EntityFramework.xml
+E:\git\crosswordgen\CrosswordGen.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\git\crosswordgen\CrosswordGen.Web\obj\Debug\CrosswordGen.Web.dll
+E:\git\crosswordgen\CrosswordGen.Web\obj\Debug\CrosswordGen.Web.pdb
+E:\git\crosswordgen\CrosswordGen.Web\bin\CrosswordGen.Model.dll
+E:\git\crosswordgen\CrosswordGen.Web\bin\CrosswordGen.Model.pdb

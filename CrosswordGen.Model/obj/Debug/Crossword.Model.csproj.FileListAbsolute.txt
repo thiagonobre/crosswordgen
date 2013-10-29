@@ -1,0 +1,5 @@
+c:\users\nobret\documents\visual studio 2010\Projects\Crossword\Crossword.Model\bin\Debug\Crossword.Model.dll
+c:\users\nobret\documents\visual studio 2010\Projects\Crossword\Crossword.Model\bin\Debug\Crossword.Model.pdb
+c:\users\nobret\documents\visual studio 2010\Projects\Crossword\Crossword.Model\obj\Debug\Crossword.Model.dll
+c:\users\nobret\documents\visual studio 2010\Projects\Crossword\Crossword.Model\obj\Debug\Crossword.Model.pdb
+C:\Users\nobret\documents\visual studio 2010\Projects\Crossword\Crossword.Model\obj\Debug\Crossword.Model.csprojResolveAssemblyReference.cache

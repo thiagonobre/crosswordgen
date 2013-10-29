@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosswordGen.Web", "CrosswordGen.Web\CrosswordGen.Web.csproj", "{C0A11DEE-EC1B-47D6-98CF-03AB056D5918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosswordGen.Model", "CrosswordGen.Model\CrosswordGen.Model.csproj", "{54CF4EBE-708E-4895-B3AB-F027AC623DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A11DEE-EC1B-47D6-98CF-03AB056D5918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A11DEE-EC1B-47D6-98CF-03AB056D5918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A11DEE-EC1B-47D6-98CF-03AB056D5918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A11DEE-EC1B-47D6-98CF-03AB056D5918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CF4EBE-708E-4895-B3AB-F027AC623DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CF4EBE-708E-4895-B3AB-F027AC623DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CF4EBE-708E-4895-B3AB-F027AC623DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CF4EBE-708E-4895-B3AB-F027AC623DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

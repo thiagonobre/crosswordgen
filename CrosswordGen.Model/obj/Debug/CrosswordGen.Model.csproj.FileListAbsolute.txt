@@ -1,0 +1,5 @@
+E:\git\crosswordgen\CrosswordGen.Model\bin\Debug\CrosswordGen.Model.dll
+E:\git\crosswordgen\CrosswordGen.Model\bin\Debug\CrosswordGen.Model.pdb
+E:\git\crosswordgen\CrosswordGen.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\git\crosswordgen\CrosswordGen.Model\obj\Debug\CrosswordGen.Model.dll
+E:\git\crosswordgen\CrosswordGen.Model\obj\Debug\CrosswordGen.Model.pdb
