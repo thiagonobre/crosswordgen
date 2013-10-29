@@ -1,4 +1,4 @@
 crosswordgen
 ============
 
-A C#.NET crossword generator
+A ASP.NET C# MVC 3 crossword generator
